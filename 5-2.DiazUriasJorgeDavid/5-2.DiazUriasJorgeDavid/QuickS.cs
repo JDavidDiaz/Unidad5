@@ -43,15 +43,15 @@ namespace _5_2.DiazUriasJorgeDavid
                     Temp = Lista[i]; //Obtiene el valor del numero del arreglo con el valor actual del contador
                     Lista[i] = Lista[j]; //Se intercambian los valores entre el primero y el ultimo
                     Lista[j] = Temp; //El ultimo tendra ahora el valor de la variable temporal
-                    i++; //Se suman y se restan los contadores
+                    i++; //Se suma y se resta 1 a los valores actuales i y j
                     j--;
                 }
             } while (i <= j); //Se repite el ciclo si se cumple la condicion
-            if (Primero < j) //Si el primer valor es menor al contador J entonces
+            if (Primero < j) //Si el primer valor es menor al valor de J entonces
             {
                 QuickSort(Lista, Primero, j); //Se llama al metodo asi mismo
             }
-            if (i < Ultimo) //Si el contador i es menor al ultimo valor entonces
+            if (i < Ultimo) //Si el valor de i es menor al ultimo valor entonces
             {
                 QuickSort(Lista, i, Ultimo); //Se llama al metodo asi mismo
             }
