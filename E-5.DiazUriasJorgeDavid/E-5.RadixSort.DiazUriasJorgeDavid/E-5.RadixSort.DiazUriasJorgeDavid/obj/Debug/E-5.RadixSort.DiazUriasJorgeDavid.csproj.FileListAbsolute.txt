@@ -1,0 +1,7 @@
+c:\users\geo\source\repos\E-5.RadixSort.DiazUriasJorgeDavid\E-5.RadixSort.DiazUriasJorgeDavid\bin\Debug\E-5.RadixSort.DiazUriasJorgeDavid.exe.config
+c:\users\geo\source\repos\E-5.RadixSort.DiazUriasJorgeDavid\E-5.RadixSort.DiazUriasJorgeDavid\bin\Debug\E-5.RadixSort.DiazUriasJorgeDavid.exe
+c:\users\geo\source\repos\E-5.RadixSort.DiazUriasJorgeDavid\E-5.RadixSort.DiazUriasJorgeDavid\bin\Debug\E-5.RadixSort.DiazUriasJorgeDavid.pdb
+c:\users\geo\source\repos\E-5.RadixSort.DiazUriasJorgeDavid\E-5.RadixSort.DiazUriasJorgeDavid\obj\Debug\E-5.RadixSort.DiazUriasJorgeDavid.csprojResolveAssemblyReference.cache
+c:\users\geo\source\repos\E-5.RadixSort.DiazUriasJorgeDavid\E-5.RadixSort.DiazUriasJorgeDavid\obj\Debug\E-5.RadixSort.DiazUriasJorgeDavid.csproj.CoreCompileInputs.cache
+c:\users\geo\source\repos\E-5.RadixSort.DiazUriasJorgeDavid\E-5.RadixSort.DiazUriasJorgeDavid\obj\Debug\E-5.RadixSort.DiazUriasJorgeDavid.exe
+c:\users\geo\source\repos\E-5.RadixSort.DiazUriasJorgeDavid\E-5.RadixSort.DiazUriasJorgeDavid\obj\Debug\E-5.RadixSort.DiazUriasJorgeDavid.pdb

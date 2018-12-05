@@ -1,0 +1,7 @@
+C:\Users\Geo\source\repos\E-5.ShellSort.DiazUriasJorgeDavid\E-5.ShellSort.DiazUriasJorgeDavid\bin\Debug\E-5.ShellSort.DiazUriasJorgeDavid.exe.config
+C:\Users\Geo\source\repos\E-5.ShellSort.DiazUriasJorgeDavid\E-5.ShellSort.DiazUriasJorgeDavid\bin\Debug\E-5.ShellSort.DiazUriasJorgeDavid.exe
+C:\Users\Geo\source\repos\E-5.ShellSort.DiazUriasJorgeDavid\E-5.ShellSort.DiazUriasJorgeDavid\bin\Debug\E-5.ShellSort.DiazUriasJorgeDavid.pdb
+C:\Users\Geo\source\repos\E-5.ShellSort.DiazUriasJorgeDavid\E-5.ShellSort.DiazUriasJorgeDavid\obj\Debug\E-5.ShellSort.DiazUriasJorgeDavid.csprojResolveAssemblyReference.cache
+C:\Users\Geo\source\repos\E-5.ShellSort.DiazUriasJorgeDavid\E-5.ShellSort.DiazUriasJorgeDavid\obj\Debug\E-5.ShellSort.DiazUriasJorgeDavid.csproj.CoreCompileInputs.cache
+C:\Users\Geo\source\repos\E-5.ShellSort.DiazUriasJorgeDavid\E-5.ShellSort.DiazUriasJorgeDavid\obj\Debug\E-5.ShellSort.DiazUriasJorgeDavid.exe
+C:\Users\Geo\source\repos\E-5.ShellSort.DiazUriasJorgeDavid\E-5.ShellSort.DiazUriasJorgeDavid\obj\Debug\E-5.ShellSort.DiazUriasJorgeDavid.pdb

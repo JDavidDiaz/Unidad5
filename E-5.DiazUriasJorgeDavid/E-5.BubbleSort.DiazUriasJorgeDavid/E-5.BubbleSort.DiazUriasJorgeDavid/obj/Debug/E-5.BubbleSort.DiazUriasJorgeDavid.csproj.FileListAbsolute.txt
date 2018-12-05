@@ -1,0 +1,7 @@
+c:\users\geo\source\repos\E-5.BubbleSort.DiazUriasJorgeDavid\E-5.BubbleSort.DiazUriasJorgeDavid\bin\Debug\E-5.BubbleSort.DiazUriasJorgeDavid.exe.config
+c:\users\geo\source\repos\E-5.BubbleSort.DiazUriasJorgeDavid\E-5.BubbleSort.DiazUriasJorgeDavid\bin\Debug\E-5.BubbleSort.DiazUriasJorgeDavid.exe
+c:\users\geo\source\repos\E-5.BubbleSort.DiazUriasJorgeDavid\E-5.BubbleSort.DiazUriasJorgeDavid\bin\Debug\E-5.BubbleSort.DiazUriasJorgeDavid.pdb
+c:\users\geo\source\repos\E-5.BubbleSort.DiazUriasJorgeDavid\E-5.BubbleSort.DiazUriasJorgeDavid\obj\Debug\E-5.BubbleSort.DiazUriasJorgeDavid.csprojResolveAssemblyReference.cache
+c:\users\geo\source\repos\E-5.BubbleSort.DiazUriasJorgeDavid\E-5.BubbleSort.DiazUriasJorgeDavid\obj\Debug\E-5.BubbleSort.DiazUriasJorgeDavid.csproj.CoreCompileInputs.cache
+c:\users\geo\source\repos\E-5.BubbleSort.DiazUriasJorgeDavid\E-5.BubbleSort.DiazUriasJorgeDavid\obj\Debug\E-5.BubbleSort.DiazUriasJorgeDavid.exe
+c:\users\geo\source\repos\E-5.BubbleSort.DiazUriasJorgeDavid\E-5.BubbleSort.DiazUriasJorgeDavid\obj\Debug\E-5.BubbleSort.DiazUriasJorgeDavid.pdb
